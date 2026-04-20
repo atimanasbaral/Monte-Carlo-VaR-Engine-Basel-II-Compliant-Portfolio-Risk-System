@@ -1,0 +1,7 @@
+Regime,Kupiec 95% p-value,Kupiec 99% p-value,Christoffersen 95% p-value,Christoffersen 99% p-value,Status
+normal,1.0,1.0,1.0,1.0,PASS
+bull,1.0,1.0,1.0,1.0,PASS
+bear,1.0,1.0,1.0,1.0,PASS
+high_vol,1.0,1.0,1.0,1.0,PASS
+low_liquidity,1.0,1.0,1.0,1.0,PASS
+crisis,1.0,1.0,1.0,1.0,PASS
